@@ -1,5 +1,5 @@
 # Ex03 Time Table
-## Date:
+## Date:01.10.2025
 
 ## AIM
 To write a html webpage page to display your slot timetable.
@@ -56,15 +56,13 @@ Execute the program using runserver command.
      <tr>
             <Th>Wednesday</Th>
         <td width="25%">Free</td>
-
         <td width="25%">web</td>
         <td width="25%">Mentor session</td>
         <td width="25%">Python</td>
     </tr>
      <tr>
             <Th>Thursday</Th>
-        
-                <td width="25%">DS</td>
+        <td width="25%">DS</td>
         <td width="25%">Python</td>
         <td width="25%">Free</td>
         <td width="25%">Python</td>
@@ -79,7 +77,7 @@ Execute the program using runserver command.
     
     
     
-    </table>          
+</table>          
 </body>
 </head>
 </html>
