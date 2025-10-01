@@ -24,11 +24,11 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```<pre>
-<!DOCTYPE html>
-<html>
-<head>
-<body>
+     <pre>
+    <!DOCTYPE html>
+     <html>
+    <head>
+    <body>
     <table BORDER="4" bgcolor="cyan" height="500" width="750" cellpadding="10" cellspacing="10">
         <tr> 
             <th colspan="5" align="center" bgcolor="red"> TIMETABLE</th>
@@ -74,15 +74,12 @@ Execute the program using runserver command.
         <td width="25%">DS</td>
         <td width="25%">DS</td>
         <td width="25%">Python</td>
-    </tr>
-    
-    
-    
-</table>          
-</body>
-</head>
-</html>
-</pre>```
+    </tr>    
+    </table>          
+    </body>
+    </head>
+    </html>
+    </pre>
 
 ## OUTPUT
 ![alt text](<Screenshot (20).png>)
